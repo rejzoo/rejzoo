@@ -1,11 +1,5 @@
 <h1 align="center">Hey! I'm Richard</h1>
 
-<p align="center"> I'm currently studying computer science. </p>
-<p align="center"> In my free time I like to code simple games and learn new things</p>
-<p align="center"> I'm big WW2 history fan and positive person! :)</p>
-
-- I’m currently learning **C++, C#, Unreal Engine 5.3**
-
 - Contact me **rejzho@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
