@@ -1,9 +1,5 @@
-<h1 align="center">Hey! I'm Richard</h1>
+<h1 align="center">Hello! I'm Richard</h1>
 
-- Contact me **rejzho@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rez420" height="30" width="40" /></a>
-rez420
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejzoo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" />
 </p>
